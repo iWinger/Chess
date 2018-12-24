@@ -3,7 +3,7 @@
 About Chess
 ------------
 A two-player game written in Java that uses ASCII art to represent pieces. The objective of the game is to win by checkmating
-the other opponent's king by making him run out of moves to play.
+the other opponent's king by making him run out of moves to play. Strategy is involved in this game, and the game is separated into 3 parts: opening, middle, and ending. 
 
 Pieces
 -------
@@ -25,6 +25,9 @@ How To Play
 Using chess-language with rows and files, to move a piece would require movements such as:
 
 e2 e4
+  .
+  .
+  .
 f7 f6
   .
   .
